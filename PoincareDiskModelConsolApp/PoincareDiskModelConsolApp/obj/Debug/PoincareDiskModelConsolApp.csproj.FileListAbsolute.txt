@@ -1,0 +1,33 @@
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.exe.config
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.exe
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.pdb
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\bin\Debug\OpenTK.dll
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\bin\Debug\OpenTK.pdb
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\bin\Debug\OpenTK.xml
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csprojAssemblyReference.cache
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csproj.CopyComplete
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.exe
+C:\Users\Yatag\OneDrive\Desktop\Geometrija u informatici\PoincareDiskModelConsolApp\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.pdb
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.exe.config
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.exe
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.pdb
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\OpenTK.dll
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\OpenTK.pdb
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\OpenTK.xml
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csprojAssemblyReference.cache
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csproj.CopyComplete
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.exe
+C:\Users\Yatag\OneDrive\Desktop\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.pdb
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.exe.config
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.exe
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\PoincareDiskModelConsolApp.pdb
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\OpenTK.dll
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\OpenTK.pdb
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\bin\Debug\OpenTK.xml
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csprojAssemblyReference.cache
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.csproj.CopyComplete
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.exe
+C:\Users\Yatag\OneDrive\Desktop\New folder\Tesalation of hiperbolic plane\Source code\PoincareDiskModelConsolApp\obj\Debug\PoincareDiskModelConsolApp.pdb
